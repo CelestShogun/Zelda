@@ -1,0 +1,16 @@
+@nsobid-D5AD6AC71EF53E3E52417C1B81DBC9B4142AA3B3
+
+@flag print_values
+@flag offset_shift 0x100
+
+@enabled
+0090e9c4 41008052
+00ebd158 41008052
+0090e990 55008052
+0090ea38 55008052
+019bf104 1f2003d5
+019ca668 1f2003d5
+@stop
+
+@TransRightsAreHumanRights
+
